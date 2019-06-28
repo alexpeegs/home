@@ -1,0 +1,9 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'Clubhub' do
+pod 'GoogleMaps'
+pod 'GooglePlaces'
+pod 'IQKeyboardManagerSwift'
+use_frameworks!
+pod 'Alamofire', '~>4.7'
+end
